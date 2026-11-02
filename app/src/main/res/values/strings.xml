@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Voice Translator</string>
+    <string name="accessibility_service_name">Screen Translator Accessibility</string>
+    <string name="accessibility_service_description">स्मार्ट वॉयस ट्रांसलेटर को अन्य ऐप्स (जैसे WhatsApp, Instagram, Telegram) में स्क्रीन टेक्स्ट को पढ़ने और लाइव अनुवाद करने की अनुमति दें।</string>
+    <string name="notification_channel_name">अनुवाद सेवा (Translation Service)</string>
+    <string name="notification_channel_desc">फ्लोटिंग ट्रांसलेटर ओवरले और बैकग्राउंड सर्विस नोटिफिकेशन</string>
+</resources>

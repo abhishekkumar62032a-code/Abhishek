@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Voice Translator",
+  "description": "An all-in-one native Android translator with voice recording, floating screen capabilities, and advanced touch-to-speech interaction features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
